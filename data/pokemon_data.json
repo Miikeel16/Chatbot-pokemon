@@ -1,7 +1,62 @@
 [
     {
+        "id": 1,
+        "fuente": "pokeapi.co",
+        "texto": "Bulbasaur es un Pokémon de tipo Grass y Poison. Evolución: Bulbasaur evoluciona a Ivysaur al nivel 16. Ivysaur evoluciona a Venusaur al nivel 32. Stats clave: Atq. Esp: 65, Atq: 49, Vel: 45, Def: 49. Destaca en Ataque Especial. Movimientos destacados: Razor wind, Swords dance, Cut, Bind, Vine whip, Headbutt, Tackle, Body slam."
+    },
+    {
+        "id": 2,
+        "fuente": "pokeapi.co",
+        "texto": "Ivysaur es un Pokémon de tipo Grass y Poison. Evolución: Bulbasaur evoluciona a Ivysaur al nivel 16. Ivysaur evoluciona a Venusaur al nivel 32. Stats clave: Atq. Esp: 80, Atq: 62, Vel: 60, Def: 63. Destaca en Ataque Especial. Movimientos destacados: Swords dance, Cut, Bind, Vine whip, Headbutt, Tackle, Body slam, Take down."
+    },
+    {
+        "id": 3,
+        "fuente": "pokeapi.co",
+        "texto": "Venusaur es un Pokémon de tipo Grass y Poison. Evolución: Bulbasaur evoluciona a Ivysaur al nivel 16. Ivysaur evoluciona a Venusaur al nivel 32. Stats clave: Atq. Esp: 100, Atq: 82, Vel: 80, Def: 83. Destaca en Ataque Especial. Movimientos destacados: Swords dance, Cut, Bind, Vine whip, Headbutt, Tackle, Body slam, Take down."
+    },
+    {
         "id": 4,
         "fuente": "pokeapi.co",
-        "texto": "Charmander es un Pokémon de tipo Fuego. Evolución: Charmander evoluciona a Charmeleon al nivel 16. Charmeleon evoluciona a Charizard al nivel 36. Stats clave: Atq. Esp: 60, Atq: 52, Vel: 65, Def: 43. Destaca en Ataque Especial. Movimientos destacados: Mega punch, Fire punch, Thunder punch, Scratch, Swords dance, Cut, Bind, Vine whip."
+        "texto": "Charmander es un Pokémon de tipo Fire. Evolución: Charmander evoluciona a Charmeleon al nivel 16. Charmeleon evoluciona a Charizard al nivel 36. Stats clave: Atq. Esp: 60, Atq: 52, Vel: 65, Def: 43. Destaca en Ataque Especial. Movimientos destacados: Mega punch, Fire punch, Thunder punch, Scratch, Swords dance, Cut, Wing attack, Mega kick."
+    },
+    {
+        "id": 5,
+        "fuente": "pokeapi.co",
+        "texto": "Charmeleon es un Pokémon de tipo Fire. Evolución: Charmander evoluciona a Charmeleon al nivel 16. Charmeleon evoluciona a Charizard al nivel 36. Stats clave: Atq. Esp: 80, Atq: 64, Vel: 80, Def: 58. Destaca en Ataque Especial. Movimientos destacados: Mega punch, Fire punch, Thunder punch, Scratch, Swords dance, Cut, Mega kick, Headbutt."
+    },
+    {
+        "id": 6,
+        "fuente": "pokeapi.co",
+        "texto": "Charizard es un Pokémon de tipo Fire y Flying. Evolución: Charmander evoluciona a Charmeleon al nivel 16. Charmeleon evoluciona a Charizard al nivel 36. Stats clave: Atq. Esp: 109, Atq: 84, Vel: 100, Def: 78. Destaca en Ataque Especial. Movimientos destacados: Mega punch, Fire punch, Thunder punch, Scratch, Swords dance, Cut, Wing attack, Fly."
+    },
+    {
+        "id": 7,
+        "fuente": "pokeapi.co",
+        "texto": "Squirtle es un Pokémon de tipo Water. Evolución: Squirtle evoluciona a Wartortle al nivel 16. Wartortle evoluciona a Blastoise al nivel 36. Stats clave: Atq. Esp: 50, Atq: 48, Vel: 43, Def: 65. Destaca en Ataque Especial. Movimientos destacados: Mega punch, Ice punch, Mega kick, Headbutt, Tackle, Body slam, Take down, Double edge."
+    },
+    {
+        "id": 8,
+        "fuente": "pokeapi.co",
+        "texto": "Wartortle es un Pokémon de tipo Water. Evolución: Squirtle evoluciona a Wartortle al nivel 16. Wartortle evoluciona a Blastoise al nivel 36. Stats clave: Atq. Esp: 65, Atq: 63, Vel: 58, Def: 80. Destaca en Ataque Especial. Movimientos destacados: Mega punch, Ice punch, Mega kick, Headbutt, Tackle, Body slam, Take down, Double edge."
+    },
+    {
+        "id": 9,
+        "fuente": "pokeapi.co",
+        "texto": "Blastoise es un Pokémon de tipo Water. Evolución: Squirtle evoluciona a Wartortle al nivel 16. Wartortle evoluciona a Blastoise al nivel 36. Stats clave: Atq. Esp: 85, Atq: 83, Vel: 78, Def: 100. Destaca en Ataque Especial. Movimientos destacados: Mega punch, Ice punch, Mega kick, Headbutt, Tackle, Body slam, Take down, Double edge."
+    },
+    {
+        "id": 25,
+        "fuente": "pokeapi.co",
+        "texto": "Pikachu es un Pokémon de tipo Electric. Evolución: Pichu evoluciona a Pikachu vía level-up. Pikachu evoluciona a Raichu usando thunder-stone. Stats clave: Atq. Esp: 50, Atq: 55, Vel: 90, Def: 40. Destaca en Ataque Físico. Movimientos destacados: Mega punch, Pay day, Thunder punch, Slam, Double kick, Mega kick, Headbutt, Body slam."
+    },
+    {
+        "id": 26,
+        "fuente": "pokeapi.co",
+        "texto": "Raichu es un Pokémon de tipo Electric. Evolución: Pichu evoluciona a Pikachu vía level-up. Pikachu evoluciona a Raichu usando thunder-stone. Stats clave: Atq. Esp: 90, Atq: 90, Vel: 110, Def: 55. Destaca en Ataque Especial. Movimientos destacados: Mega punch, Pay day, Thunder punch, Slam, Mega kick, Headbutt, Body slam, Take down."
+    },
+    {
+        "id": 133,
+        "fuente": "pokeapi.co",
+        "texto": "Eevee es un Pokémon de tipo Normal. Evolución: Eevee evoluciona a Vaporeon usando water-stone. Eevee evoluciona a Jolteon usando thunder-stone. Eevee evoluciona a Flareon usando fire-stone. Eevee evoluciona a Espeon vía level-up. Eevee evoluciona a Umbreon vía level-up. Eevee evoluciona a Leafeon vía level-up. Eevee evoluciona a Glaceon vía level-up. Eevee evoluciona a Sylveon vía level-up. Stats clave: Atq. Esp: 45, Atq: 55, Vel: 55, Def: 50. Destaca en Ataque Físico. Movimientos destacados: Pay day, Double kick, Sand attack, Headbutt, Tackle, Body slam, Take down, Double edge."
     }
 ]
