@@ -2,61 +2,756 @@
     {
         "id": 1,
         "fuente": "pokeapi.co",
-        "texto": "Bulbasaur es un Pokémon de tipo Grass y Poison. Evolución: Bulbasaur evoluciona a Ivysaur al nivel 16. Ivysaur evoluciona a Venusaur al nivel 32. Stats clave: Atq. Esp: 65, Atq: 49, Vel: 45, Def: 49. Destaca en Ataque Especial. Movimientos destacados: Razor wind, Swords dance, Cut, Bind, Vine whip, Headbutt, Tackle, Body slam."
+        "texto": "Bulbasaur is a Grass and Poison-type Pokemon. Evolution: Bulbasaur evolves into Ivysaur at level 16. Ivysaur evolves into Venusaur at level 32. Key stats: Sp. Atk: 65, Atk: 49, Speed: 45, Def: 49. Focuses on Special Attack. Notable moves: Razor Wind, Swords Dance, Cut, Bind, Vine Whip, Headbutt."
     },
     {
         "id": 2,
         "fuente": "pokeapi.co",
-        "texto": "Ivysaur es un Pokémon de tipo Grass y Poison. Evolución: Bulbasaur evoluciona a Ivysaur al nivel 16. Ivysaur evoluciona a Venusaur al nivel 32. Stats clave: Atq. Esp: 80, Atq: 62, Vel: 60, Def: 63. Destaca en Ataque Especial. Movimientos destacados: Swords dance, Cut, Bind, Vine whip, Headbutt, Tackle, Body slam, Take down."
+        "texto": "Ivysaur is a Grass and Poison-type Pokemon. Evolution: Bulbasaur evolves into Ivysaur at level 16. Ivysaur evolves into Venusaur at level 32. Key stats: Sp. Atk: 80, Atk: 62, Speed: 60, Def: 63. Focuses on Special Attack. Notable moves: Swords Dance, Cut, Bind, Vine Whip, Headbutt, Tackle."
     },
     {
         "id": 3,
         "fuente": "pokeapi.co",
-        "texto": "Venusaur es un Pokémon de tipo Grass y Poison. Evolución: Bulbasaur evoluciona a Ivysaur al nivel 16. Ivysaur evoluciona a Venusaur al nivel 32. Stats clave: Atq. Esp: 100, Atq: 82, Vel: 80, Def: 83. Destaca en Ataque Especial. Movimientos destacados: Swords dance, Cut, Bind, Vine whip, Headbutt, Tackle, Body slam, Take down."
+        "texto": "Venusaur is a Grass and Poison-type Pokemon. Evolution: Bulbasaur evolves into Ivysaur at level 16. Ivysaur evolves into Venusaur at level 32. Key stats: Sp. Atk: 100, Atk: 82, Speed: 80, Def: 83. Focuses on Special Attack. Notable moves: Swords Dance, Cut, Bind, Vine Whip, Headbutt, Tackle."
     },
     {
         "id": 4,
         "fuente": "pokeapi.co",
-        "texto": "Charmander es un Pokémon de tipo Fire. Evolución: Charmander evoluciona a Charmeleon al nivel 16. Charmeleon evoluciona a Charizard al nivel 36. Stats clave: Atq. Esp: 60, Atq: 52, Vel: 65, Def: 43. Destaca en Ataque Especial. Movimientos destacados: Mega punch, Fire punch, Thunder punch, Scratch, Swords dance, Cut, Wing attack, Mega kick."
+        "texto": "Charmander is a Fire-type Pokemon. Evolution: Charmander evolves into Charmeleon at level 16. Charmeleon evolves into Charizard at level 36. Key stats: Sp. Atk: 60, Atk: 52, Speed: 65, Def: 43. Focuses on Special Attack. Notable moves: Mega Punch, Fire Punch, Thunder Punch, Scratch, Swords Dance, Cut."
     },
     {
         "id": 5,
         "fuente": "pokeapi.co",
-        "texto": "Charmeleon es un Pokémon de tipo Fire. Evolución: Charmander evoluciona a Charmeleon al nivel 16. Charmeleon evoluciona a Charizard al nivel 36. Stats clave: Atq. Esp: 80, Atq: 64, Vel: 80, Def: 58. Destaca en Ataque Especial. Movimientos destacados: Mega punch, Fire punch, Thunder punch, Scratch, Swords dance, Cut, Mega kick, Headbutt."
+        "texto": "Charmeleon is a Fire-type Pokemon. Evolution: Charmander evolves into Charmeleon at level 16. Charmeleon evolves into Charizard at level 36. Key stats: Sp. Atk: 80, Atk: 64, Speed: 80, Def: 58. Focuses on Special Attack. Notable moves: Mega Punch, Fire Punch, Thunder Punch, Scratch, Swords Dance, Cut."
     },
     {
         "id": 6,
         "fuente": "pokeapi.co",
-        "texto": "Charizard es un Pokémon de tipo Fire y Flying. Evolución: Charmander evoluciona a Charmeleon al nivel 16. Charmeleon evoluciona a Charizard al nivel 36. Stats clave: Atq. Esp: 109, Atq: 84, Vel: 100, Def: 78. Destaca en Ataque Especial. Movimientos destacados: Mega punch, Fire punch, Thunder punch, Scratch, Swords dance, Cut, Wing attack, Fly."
+        "texto": "Charizard is a Fire and Flying-type Pokemon. Evolution: Charmander evolves into Charmeleon at level 16. Charmeleon evolves into Charizard at level 36. Key stats: Sp. Atk: 109, Atk: 84, Speed: 100, Def: 78. Focuses on Special Attack. Notable moves: Mega Punch, Fire Punch, Thunder Punch, Scratch, Swords Dance, Cut."
     },
     {
         "id": 7,
         "fuente": "pokeapi.co",
-        "texto": "Squirtle es un Pokémon de tipo Water. Evolución: Squirtle evoluciona a Wartortle al nivel 16. Wartortle evoluciona a Blastoise al nivel 36. Stats clave: Atq. Esp: 50, Atq: 48, Vel: 43, Def: 65. Destaca en Ataque Especial. Movimientos destacados: Mega punch, Ice punch, Mega kick, Headbutt, Tackle, Body slam, Take down, Double edge."
+        "texto": "Squirtle is a Water-type Pokemon. Evolution: Squirtle evolves into Wartortle at level 16. Wartortle evolves into Blastoise at level 36. Key stats: Sp. Atk: 50, Atk: 48, Speed: 43, Def: 65. Focuses on Special Attack. Notable moves: Mega Punch, Ice Punch, Mega Kick, Headbutt, Tackle, Body Slam."
     },
     {
         "id": 8,
         "fuente": "pokeapi.co",
-        "texto": "Wartortle es un Pokémon de tipo Water. Evolución: Squirtle evoluciona a Wartortle al nivel 16. Wartortle evoluciona a Blastoise al nivel 36. Stats clave: Atq. Esp: 65, Atq: 63, Vel: 58, Def: 80. Destaca en Ataque Especial. Movimientos destacados: Mega punch, Ice punch, Mega kick, Headbutt, Tackle, Body slam, Take down, Double edge."
+        "texto": "Wartortle is a Water-type Pokemon. Evolution: Squirtle evolves into Wartortle at level 16. Wartortle evolves into Blastoise at level 36. Key stats: Sp. Atk: 65, Atk: 63, Speed: 58, Def: 80. Focuses on Special Attack. Notable moves: Mega Punch, Ice Punch, Mega Kick, Headbutt, Tackle, Body Slam."
     },
     {
         "id": 9,
         "fuente": "pokeapi.co",
-        "texto": "Blastoise es un Pokémon de tipo Water. Evolución: Squirtle evoluciona a Wartortle al nivel 16. Wartortle evoluciona a Blastoise al nivel 36. Stats clave: Atq. Esp: 85, Atq: 83, Vel: 78, Def: 100. Destaca en Ataque Especial. Movimientos destacados: Mega punch, Ice punch, Mega kick, Headbutt, Tackle, Body slam, Take down, Double edge."
+        "texto": "Blastoise is a Water-type Pokemon. Evolution: Squirtle evolves into Wartortle at level 16. Wartortle evolves into Blastoise at level 36. Key stats: Sp. Atk: 85, Atk: 83, Speed: 78, Def: 100. Focuses on Special Attack. Notable moves: Mega Punch, Ice Punch, Mega Kick, Headbutt, Tackle, Body Slam."
+    },
+    {
+        "id": 10,
+        "fuente": "pokeapi.co",
+        "texto": "Caterpie is a Bug-type Pokemon. Evolution: Caterpie evolves into Metapod at level 7. Metapod evolves into Butterfree at level 10. Key stats: Sp. Atk: 20, Atk: 30, Speed: 45, Def: 35. Focuses on Physical Attack. Notable moves: Tackle, String Shot, Snore, Bug Bite, Electroweb."
+    },
+    {
+        "id": 11,
+        "fuente": "pokeapi.co",
+        "texto": "Metapod is a Bug-type Pokemon. Evolution: Caterpie evolves into Metapod at level 7. Metapod evolves into Butterfree at level 10. Key stats: Sp. Atk: 25, Atk: 20, Speed: 30, Def: 55. Focuses on Special Attack. Notable moves: String Shot, Harden, Iron Defense, Bug Bite, Electroweb."
+    },
+    {
+        "id": 12,
+        "fuente": "pokeapi.co",
+        "texto": "Butterfree is a Bug and Flying-type Pokemon. Evolution: Caterpie evolves into Metapod at level 7. Metapod evolves into Butterfree at level 10. Key stats: Sp. Atk: 90, Atk: 45, Speed: 70, Def: 50. Focuses on Special Attack. Notable moves: Razor Wind, Gust, Whirlwind, Headbutt, Tackle, Take Down."
+    },
+    {
+        "id": 13,
+        "fuente": "pokeapi.co",
+        "texto": "Weedle is a Bug and Poison-type Pokemon. Evolution: Weedle evolves into Kakuna at level 7. Kakuna evolves into Beedrill at level 10. Key stats: Sp. Atk: 20, Atk: 35, Speed: 50, Def: 30. Focuses on Physical Attack. Notable moves: Poison Sting, String Shot, Bug Bite, Electroweb."
+    },
+    {
+        "id": 14,
+        "fuente": "pokeapi.co",
+        "texto": "Kakuna is a Bug and Poison-type Pokemon. Evolution: Weedle evolves into Kakuna at level 7. Kakuna evolves into Beedrill at level 10. Key stats: Sp. Atk: 25, Atk: 25, Speed: 35, Def: 50. Focuses on Special Attack. Notable moves: String Shot, Harden, Iron Defense, Bug Bite, Electroweb."
+    },
+    {
+        "id": 15,
+        "fuente": "pokeapi.co",
+        "texto": "Beedrill is a Bug and Poison-type Pokemon. Evolution: Weedle evolves into Kakuna at level 7. Kakuna evolves into Beedrill at level 10. Key stats: Sp. Atk: 45, Atk: 90, Speed: 75, Def: 40. Focuses on Physical Attack. Notable moves: Swords Dance, Cut, Headbutt, Fury Attack, Take Down, Double Edge."
+    },
+    {
+        "id": 16,
+        "fuente": "pokeapi.co",
+        "texto": "Pidgey is a Normal and Flying-type Pokemon. Evolution: Pidgey evolves into Pidgeotto at level 18. Pidgeotto evolves into Pidgeot at level 36. Key stats: Sp. Atk: 35, Atk: 45, Speed: 56, Def: 40. Focuses on Physical Attack. Notable moves: Razor Wind, Gust, Wing Attack, Whirlwind, Fly, Sand Attack."
+    },
+    {
+        "id": 17,
+        "fuente": "pokeapi.co",
+        "texto": "Pidgeotto is a Normal and Flying-type Pokemon. Evolution: Pidgey evolves into Pidgeotto at level 18. Pidgeotto evolves into Pidgeot at level 36. Key stats: Sp. Atk: 50, Atk: 60, Speed: 71, Def: 55. Focuses on Physical Attack. Notable moves: Razor Wind, Gust, Wing Attack, Whirlwind, Fly, Sand Attack."
+    },
+    {
+        "id": 18,
+        "fuente": "pokeapi.co",
+        "texto": "Pidgeot is a Normal and Flying-type Pokemon. Evolution: Pidgey evolves into Pidgeotto at level 18. Pidgeotto evolves into Pidgeot at level 36. Key stats: Sp. Atk: 70, Atk: 80, Speed: 101, Def: 75. Focuses on Physical Attack. Notable moves: Razor Wind, Gust, Wing Attack, Whirlwind, Fly, Sand Attack."
+    },
+    {
+        "id": 19,
+        "fuente": "pokeapi.co",
+        "texto": "Rattata is a Normal-type Pokemon. Evolution: Rattata evolves into Raticate at level 20. Key stats: Sp. Atk: 25, Atk: 56, Speed: 72, Def: 35. Focuses on Physical Attack. Notable moves: Cut, Headbutt, Tackle, Body Slam, Take Down, Double Edge."
+    },
+    {
+        "id": 20,
+        "fuente": "pokeapi.co",
+        "texto": "Raticate is a Normal-type Pokemon. Evolution: Rattata evolves into Raticate at level 20. Key stats: Sp. Atk: 50, Atk: 81, Speed: 97, Def: 60. Focuses on Physical Attack. Notable moves: Swords Dance, Cut, Headbutt, Tackle, Body Slam, Take Down."
+    },
+    {
+        "id": 21,
+        "fuente": "pokeapi.co",
+        "texto": "Spearow is a Normal and Flying-type Pokemon. Evolution: Spearow evolves into Fearow at level 20. Key stats: Sp. Atk: 31, Atk: 60, Speed: 70, Def: 30. Focuses on Physical Attack. Notable moves: Razor Wind, Wing Attack, Whirlwind, Fly, Headbutt, Fury Attack."
+    },
+    {
+        "id": 22,
+        "fuente": "pokeapi.co",
+        "texto": "Fearow is a Normal and Flying-type Pokemon. Evolution: Spearow evolves into Fearow at level 20. Key stats: Sp. Atk: 61, Atk: 90, Speed: 100, Def: 65. Focuses on Physical Attack. Notable moves: Razor Wind, Wing Attack, Whirlwind, Fly, Headbutt, Fury Attack."
+    },
+    {
+        "id": 23,
+        "fuente": "pokeapi.co",
+        "texto": "Ekans is a Poison-type Pokemon. Evolution: Ekans evolves into Arbok at level 22. Key stats: Sp. Atk: 40, Atk: 60, Speed: 55, Def: 44. Focuses on Physical Attack. Notable moves: Bind, Slam, Headbutt, Body Slam, Wrap, Take Down."
+    },
+    {
+        "id": 24,
+        "fuente": "pokeapi.co",
+        "texto": "Arbok is a Poison-type Pokemon. Evolution: Ekans evolves into Arbok at level 22. Key stats: Sp. Atk: 65, Atk: 95, Speed: 80, Def: 69. Focuses on Physical Attack. Notable moves: Bind, Slam, Headbutt, Body Slam, Wrap, Take Down."
     },
     {
         "id": 25,
         "fuente": "pokeapi.co",
-        "texto": "Pikachu es un Pokémon de tipo Electric. Evolución: Pichu evoluciona a Pikachu vía level-up. Pikachu evoluciona a Raichu usando thunder-stone. Stats clave: Atq. Esp: 50, Atq: 55, Vel: 90, Def: 40. Destaca en Ataque Físico. Movimientos destacados: Mega punch, Pay day, Thunder punch, Slam, Double kick, Mega kick, Headbutt, Body slam."
+        "texto": "Pikachu is a Electric-type Pokemon. Evolution: Pichu evolves into Pikachu via level-up. Pikachu evolves into Raichu using a Thunder Stone. Key stats: Sp. Atk: 50, Atk: 55, Speed: 90, Def: 40. Focuses on Physical Attack. Notable moves: Mega Punch, Pay Day, Thunder Punch, Slam, Double Kick, Mega Kick."
     },
     {
         "id": 26,
         "fuente": "pokeapi.co",
-        "texto": "Raichu es un Pokémon de tipo Electric. Evolución: Pichu evoluciona a Pikachu vía level-up. Pikachu evoluciona a Raichu usando thunder-stone. Stats clave: Atq. Esp: 90, Atq: 90, Vel: 110, Def: 55. Destaca en Ataque Especial. Movimientos destacados: Mega punch, Pay day, Thunder punch, Slam, Mega kick, Headbutt, Body slam, Take down."
+        "texto": "Raichu is a Electric-type Pokemon. Evolution: Pichu evolves into Pikachu via level-up. Pikachu evolves into Raichu using a Thunder Stone. Key stats: Sp. Atk: 90, Atk: 90, Speed: 110, Def: 55. Focuses on Special Attack. Notable moves: Mega Punch, Pay Day, Thunder Punch, Slam, Mega Kick, Headbutt."
+    },
+    {
+        "id": 27,
+        "fuente": "pokeapi.co",
+        "texto": "Sandshrew is a Ground-type Pokemon. Evolution: Sandshrew evolves into Sandslash at level 22. Key stats: Sp. Atk: 20, Atk: 75, Speed: 40, Def: 85. Focuses on Physical Attack. Notable moves: Scratch, Swords Dance, Cut, Sand Attack, Headbutt, Body Slam."
+    },
+    {
+        "id": 28,
+        "fuente": "pokeapi.co",
+        "texto": "Sandslash is a Ground-type Pokemon. Evolution: Sandshrew evolves into Sandslash at level 22. Key stats: Sp. Atk: 45, Atk: 100, Speed: 65, Def: 110. Focuses on Physical Attack. Notable moves: Scratch, Swords Dance, Cut, Sand Attack, Headbutt, Body Slam."
+    },
+    {
+        "id": 29,
+        "fuente": "pokeapi.co",
+        "texto": "Nidoran-f is a Poison-type Pokemon. Evolution: Nidoran-f evolves into Nidorina at level 16. Nidorina evolves into Nidoqueen using a Moon Stone. Key stats: Sp. Atk: 40, Atk: 47, Speed: 41, Def: 52. Focuses on Physical Attack. Notable moves: Scratch, Cut, Double Kick, Headbutt, Tackle, Body Slam."
+    },
+    {
+        "id": 30,
+        "fuente": "pokeapi.co",
+        "texto": "Nidorina is a Poison-type Pokemon. Evolution: Nidoran-f evolves into Nidorina at level 16. Nidorina evolves into Nidoqueen using a Moon Stone. Key stats: Sp. Atk: 55, Atk: 62, Speed: 56, Def: 67. Focuses on Physical Attack. Notable moves: Scratch, Cut, Double Kick, Headbutt, Horn Drill, Tackle."
+    },
+    {
+        "id": 31,
+        "fuente": "pokeapi.co",
+        "texto": "Nidoqueen is a Poison and Ground-type Pokemon. Evolution: Nidoran-f evolves into Nidorina at level 16. Nidorina evolves into Nidoqueen using a Moon Stone. Key stats: Sp. Atk: 75, Atk: 92, Speed: 76, Def: 87. Focuses on Physical Attack. Notable moves: Mega Punch, Pay Day, Fire Punch, Ice Punch, Thunder Punch, Scratch."
+    },
+    {
+        "id": 32,
+        "fuente": "pokeapi.co",
+        "texto": "Nidoran-m is a Poison-type Pokemon. Evolution: Nidoran-m evolves into Nidorino at level 16. Nidorino evolves into Nidoking using a Moon Stone. Key stats: Sp. Atk: 40, Atk: 57, Speed: 50, Def: 40. Focuses on Physical Attack. Notable moves: Cut, Double Kick, Headbutt, Horn Attack, Fury Attack, Horn Drill."
+    },
+    {
+        "id": 33,
+        "fuente": "pokeapi.co",
+        "texto": "Nidorino is a Poison-type Pokemon. Evolution: Nidoran-m evolves into Nidorino at level 16. Nidorino evolves into Nidoking using a Moon Stone. Key stats: Sp. Atk: 55, Atk: 72, Speed: 65, Def: 57. Focuses on Physical Attack. Notable moves: Cut, Double Kick, Headbutt, Horn Attack, Fury Attack, Horn Drill."
+    },
+    {
+        "id": 34,
+        "fuente": "pokeapi.co",
+        "texto": "Nidoking is a Poison and Ground-type Pokemon. Evolution: Nidoran-m evolves into Nidorino at level 16. Nidorino evolves into Nidoking using a Moon Stone. Key stats: Sp. Atk: 85, Atk: 102, Speed: 85, Def: 77. Focuses on Physical Attack. Notable moves: Mega Punch, Pay Day, Fire Punch, Ice Punch, Thunder Punch, Cut."
+    },
+    {
+        "id": 35,
+        "fuente": "pokeapi.co",
+        "texto": "Clefairy is a Fairy-type Pokemon. Evolution: Cleffa evolves into Clefairy via level-up. Clefairy evolves into Clefable using a Moon Stone. Key stats: Sp. Atk: 60, Atk: 45, Speed: 35, Def: 48. Focuses on Special Attack. Notable moves: Pound, Double Slap, Mega Punch, Fire Punch, Ice Punch, Thunder Punch."
+    },
+    {
+        "id": 36,
+        "fuente": "pokeapi.co",
+        "texto": "Clefable is a Fairy-type Pokemon. Evolution: Cleffa evolves into Clefairy via level-up. Clefairy evolves into Clefable using a Moon Stone. Key stats: Sp. Atk: 95, Atk: 70, Speed: 60, Def: 73. Focuses on Special Attack. Notable moves: Pound, Double Slap, Mega Punch, Fire Punch, Ice Punch, Thunder Punch."
+    },
+    {
+        "id": 37,
+        "fuente": "pokeapi.co",
+        "texto": "Vulpix is a Fire-type Pokemon. Evolution: Vulpix evolves into Ninetales using a Fire Stone. Key stats: Sp. Atk: 50, Atk: 41, Speed: 65, Def: 40. Focuses on Special Attack. Notable moves: Headbutt, Tackle, Body Slam, Take Down, Double Edge, Tail Whip."
+    },
+    {
+        "id": 38,
+        "fuente": "pokeapi.co",
+        "texto": "Ninetales is a Fire-type Pokemon. Evolution: Vulpix evolves into Ninetales using a Fire Stone. Key stats: Sp. Atk: 81, Atk: 76, Speed: 100, Def: 75. Focuses on Special Attack. Notable moves: Headbutt, Tackle, Body Slam, Take Down, Double Edge, Tail Whip."
+    },
+    {
+        "id": 39,
+        "fuente": "pokeapi.co",
+        "texto": "Jigglypuff is a Normal and Fairy-type Pokemon. Evolution: Igglybuff evolves into Jigglypuff via level-up. Jigglypuff evolves into Wigglytuff using a Moon Stone. Key stats: Sp. Atk: 45, Atk: 45, Speed: 20, Def: 20. Focuses on Special Attack. Notable moves: Pound, Double Slap, Mega Punch, Fire Punch, Ice Punch, Thunder Punch."
+    },
+    {
+        "id": 40,
+        "fuente": "pokeapi.co",
+        "texto": "Wigglytuff is a Normal and Fairy-type Pokemon. Evolution: Igglybuff evolves into Jigglypuff via level-up. Jigglypuff evolves into Wigglytuff using a Moon Stone. Key stats: Sp. Atk: 85, Atk: 70, Speed: 45, Def: 45. Focuses on Special Attack. Notable moves: Pound, Double Slap, Mega Punch, Fire Punch, Ice Punch, Thunder Punch."
+    },
+    {
+        "id": 41,
+        "fuente": "pokeapi.co",
+        "texto": "Zubat is a Poison and Flying-type Pokemon. Evolution: Zubat evolves into Golbat at level 22. Golbat evolves into Crobat via level-up. Key stats: Sp. Atk: 30, Atk: 45, Speed: 55, Def: 35. Focuses on Physical Attack. Notable moves: Razor Wind, Gust, Wing Attack, Whirlwind, Fly, Headbutt."
+    },
+    {
+        "id": 42,
+        "fuente": "pokeapi.co",
+        "texto": "Golbat is a Poison and Flying-type Pokemon. Evolution: Zubat evolves into Golbat at level 22. Golbat evolves into Crobat via level-up. Key stats: Sp. Atk: 65, Atk: 80, Speed: 90, Def: 70. Focuses on Physical Attack. Notable moves: Razor Wind, Gust, Wing Attack, Whirlwind, Fly, Headbutt."
+    },
+    {
+        "id": 43,
+        "fuente": "pokeapi.co",
+        "texto": "Oddish is a Grass and Poison-type Pokemon. Evolution: Oddish evolves into Gloom at level 21. Gloom evolves into Vileplume using a Leaf Stone. Gloom evolves into Bellossom using a Sun Stone. Key stats: Sp. Atk: 75, Atk: 50, Speed: 30, Def: 55. Focuses on Special Attack. Notable moves: Swords Dance, Cut, Headbutt, Take Down, Double Edge, Acid."
+    },
+    {
+        "id": 44,
+        "fuente": "pokeapi.co",
+        "texto": "Gloom is a Grass and Poison-type Pokemon. Evolution: Oddish evolves into Gloom at level 21. Gloom evolves into Vileplume using a Leaf Stone. Gloom evolves into Bellossom using a Sun Stone. Key stats: Sp. Atk: 85, Atk: 65, Speed: 40, Def: 70. Focuses on Special Attack. Notable moves: Swords Dance, Cut, Headbutt, Take Down, Double Edge, Acid."
+    },
+    {
+        "id": 45,
+        "fuente": "pokeapi.co",
+        "texto": "Vileplume is a Grass and Poison-type Pokemon. Evolution: Oddish evolves into Gloom at level 21. Gloom evolves into Vileplume using a Leaf Stone. Gloom evolves into Bellossom using a Sun Stone. Key stats: Sp. Atk: 110, Atk: 80, Speed: 50, Def: 85. Focuses on Special Attack. Notable moves: Swords Dance, Cut, Headbutt, Body Slam, Take Down, Double Edge."
+    },
+    {
+        "id": 46,
+        "fuente": "pokeapi.co",
+        "texto": "Paras is a Bug and Grass-type Pokemon. Evolution: Paras evolves into Parasect at level 24. Key stats: Sp. Atk: 45, Atk: 70, Speed: 25, Def: 55. Focuses on Physical Attack. Notable moves: Scratch, Swords Dance, Cut, Headbutt, Body Slam, Take Down."
+    },
+    {
+        "id": 47,
+        "fuente": "pokeapi.co",
+        "texto": "Parasect is a Bug and Grass-type Pokemon. Evolution: Paras evolves into Parasect at level 24. Key stats: Sp. Atk: 60, Atk: 95, Speed: 30, Def: 80. Focuses on Physical Attack. Notable moves: Scratch, Swords Dance, Cut, Headbutt, Body Slam, Take Down."
+    },
+    {
+        "id": 48,
+        "fuente": "pokeapi.co",
+        "texto": "Venonat is a Bug and Poison-type Pokemon. Evolution: Venonat evolves into Venomoth at level 31. Key stats: Sp. Atk: 40, Atk: 55, Speed: 45, Def: 50. Focuses on Physical Attack. Notable moves: Headbutt, Tackle, Take Down, Double Edge, Supersonic, Disable."
+    },
+    {
+        "id": 49,
+        "fuente": "pokeapi.co",
+        "texto": "Venomoth is a Bug and Poison-type Pokemon. Evolution: Venonat evolves into Venomoth at level 31. Key stats: Sp. Atk: 90, Atk: 65, Speed: 90, Def: 60. Focuses on Special Attack. Notable moves: Razor Wind, Gust, Whirlwind, Headbutt, Tackle, Take Down."
+    },
+    {
+        "id": 50,
+        "fuente": "pokeapi.co",
+        "texto": "Diglett is a Ground-type Pokemon. Evolution: Diglett evolves into Dugtrio at level 26. Key stats: Sp. Atk: 35, Atk: 55, Speed: 95, Def: 25. Focuses on Physical Attack. Notable moves: Scratch, Swords Dance, Cut, Sand Attack, Headbutt, Body Slam."
+    },
+    {
+        "id": 51,
+        "fuente": "pokeapi.co",
+        "texto": "Dugtrio is a Ground-type Pokemon. Evolution: Diglett evolves into Dugtrio at level 26. Key stats: Sp. Atk: 50, Atk: 100, Speed: 120, Def: 50. Focuses on Physical Attack. Notable moves: Scratch, Swords Dance, Cut, Sand Attack, Headbutt, Body Slam."
+    },
+    {
+        "id": 52,
+        "fuente": "pokeapi.co",
+        "texto": "Meowth is a Normal-type Pokemon. Evolution: Meowth evolves into Persian at level 28. Meowth evolves into Perrserker at level 28. Key stats: Sp. Atk: 40, Atk: 45, Speed: 90, Def: 35. Focuses on Physical Attack. Notable moves: Pay Day, Scratch, Cut, Headbutt, Body Slam, Take Down."
+    },
+    {
+        "id": 53,
+        "fuente": "pokeapi.co",
+        "texto": "Persian is a Normal-type Pokemon. Evolution: Meowth evolves into Persian at level 28. Meowth evolves into Perrserker at level 28. Key stats: Sp. Atk: 65, Atk: 70, Speed: 115, Def: 60. Focuses on Physical Attack. Notable moves: Pay Day, Scratch, Cut, Headbutt, Body Slam, Take Down."
+    },
+    {
+        "id": 54,
+        "fuente": "pokeapi.co",
+        "texto": "Psyduck is a Water-type Pokemon. Evolution: Psyduck evolves into Golduck at level 33. Key stats: Sp. Atk: 65, Atk: 52, Speed: 55, Def: 48. Focuses on Special Attack. Notable moves: Mega Punch, Pay Day, Ice Punch, Scratch, Mega Kick, Headbutt."
+    },
+    {
+        "id": 55,
+        "fuente": "pokeapi.co",
+        "texto": "Golduck is a Water-type Pokemon. Evolution: Psyduck evolves into Golduck at level 33. Key stats: Sp. Atk: 95, Atk: 82, Speed: 85, Def: 78. Focuses on Special Attack. Notable moves: Mega Punch, Pay Day, Ice Punch, Scratch, Mega Kick, Headbutt."
+    },
+    {
+        "id": 56,
+        "fuente": "pokeapi.co",
+        "texto": "Mankey is a Fighting-type Pokemon. Evolution: Mankey evolves into Primeape at level 28. Primeape evolves into Annihilape via use-move. Key stats: Sp. Atk: 35, Atk: 80, Speed: 70, Def: 35. Focuses on Physical Attack. Notable moves: Karate Chop, Mega Punch, Pay Day, Fire Punch, Ice Punch, Thunder Punch."
+    },
+    {
+        "id": 57,
+        "fuente": "pokeapi.co",
+        "texto": "Primeape is a Fighting-type Pokemon. Evolution: Mankey evolves into Primeape at level 28. Primeape evolves into Annihilape via use-move. Key stats: Sp. Atk: 60, Atk: 105, Speed: 95, Def: 60. Focuses on Physical Attack. Notable moves: Karate Chop, Mega Punch, Pay Day, Fire Punch, Ice Punch, Thunder Punch."
+    },
+    {
+        "id": 58,
+        "fuente": "pokeapi.co",
+        "texto": "Growlithe is a Fire-type Pokemon. Evolution: Growlithe evolves into Arcanine using a Fire Stone. Key stats: Sp. Atk: 70, Atk: 70, Speed: 60, Def: 45. Focuses on Special Attack. Notable moves: Double Kick, Headbutt, Body Slam, Take Down, Thrash, Double Edge."
+    },
+    {
+        "id": 59,
+        "fuente": "pokeapi.co",
+        "texto": "Arcanine is a Fire-type Pokemon. Evolution: Growlithe evolves into Arcanine using a Fire Stone. Key stats: Sp. Atk: 100, Atk: 110, Speed: 95, Def: 80. Focuses on Physical Attack. Notable moves: Headbutt, Body Slam, Take Down, Thrash, Double Edge, Leer."
+    },
+    {
+        "id": 60,
+        "fuente": "pokeapi.co",
+        "texto": "Poliwag is a Water-type Pokemon. Evolution: Poliwag evolves into Poliwhirl at level 25. Poliwhirl evolves into Poliwrath using a Water Stone. Poliwhirl evolves into Politoed via trade. Key stats: Sp. Atk: 40, Atk: 50, Speed: 90, Def: 40. Focuses on Physical Attack. Notable moves: Pound, Double Slap, Headbutt, Body Slam, Take Down, Double Edge."
+    },
+    {
+        "id": 61,
+        "fuente": "pokeapi.co",
+        "texto": "Poliwhirl is a Water-type Pokemon. Evolution: Poliwag evolves into Poliwhirl at level 25. Poliwhirl evolves into Poliwrath using a Water Stone. Poliwhirl evolves into Politoed via trade. Key stats: Sp. Atk: 50, Atk: 65, Speed: 90, Def: 65. Focuses on Physical Attack. Notable moves: Pound, Double Slap, Mega Punch, Ice Punch, Mega Kick, Headbutt."
+    },
+    {
+        "id": 62,
+        "fuente": "pokeapi.co",
+        "texto": "Poliwrath is a Water and Fighting-type Pokemon. Evolution: Poliwag evolves into Poliwhirl at level 25. Poliwhirl evolves into Poliwrath using a Water Stone. Poliwhirl evolves into Politoed via trade. Key stats: Sp. Atk: 70, Atk: 95, Speed: 70, Def: 95. Focuses on Physical Attack. Notable moves: Pound, Double Slap, Mega Punch, Ice Punch, Mega Kick, Headbutt."
+    },
+    {
+        "id": 63,
+        "fuente": "pokeapi.co",
+        "texto": "Abra is a Psychic-type Pokemon. Evolution: Abra evolves into Kadabra at level 16. Kadabra evolves into Alakazam via trade. Key stats: Sp. Atk: 105, Atk: 20, Speed: 90, Def: 15. Focuses on Special Attack. Notable moves: Mega Punch, Fire Punch, Ice Punch, Thunder Punch, Mega Kick, Headbutt."
+    },
+    {
+        "id": 64,
+        "fuente": "pokeapi.co",
+        "texto": "Kadabra is a Psychic-type Pokemon. Evolution: Abra evolves into Kadabra at level 16. Kadabra evolves into Alakazam via trade. Key stats: Sp. Atk: 120, Atk: 35, Speed: 105, Def: 30. Focuses on Special Attack. Notable moves: Mega Punch, Fire Punch, Ice Punch, Thunder Punch, Mega Kick, Headbutt."
+    },
+    {
+        "id": 65,
+        "fuente": "pokeapi.co",
+        "texto": "Alakazam is a Psychic-type Pokemon. Evolution: Abra evolves into Kadabra at level 16. Kadabra evolves into Alakazam via trade. Key stats: Sp. Atk: 135, Atk: 50, Speed: 120, Def: 45. Focuses on Special Attack. Notable moves: Mega Punch, Fire Punch, Ice Punch, Thunder Punch, Mega Kick, Headbutt."
+    },
+    {
+        "id": 66,
+        "fuente": "pokeapi.co",
+        "texto": "Machop is a Fighting-type Pokemon. Evolution: Machop evolves into Machoke at level 28. Machoke evolves into Machamp via trade. Key stats: Sp. Atk: 35, Atk: 80, Speed: 35, Def: 50. Focuses on Physical Attack. Notable moves: Karate Chop, Mega Punch, Fire Punch, Ice Punch, Thunder Punch, Mega Kick."
+    },
+    {
+        "id": 67,
+        "fuente": "pokeapi.co",
+        "texto": "Machoke is a Fighting-type Pokemon. Evolution: Machop evolves into Machoke at level 28. Machoke evolves into Machamp via trade. Key stats: Sp. Atk: 50, Atk: 100, Speed: 45, Def: 70. Focuses on Physical Attack. Notable moves: Karate Chop, Mega Punch, Fire Punch, Ice Punch, Thunder Punch, Mega Kick."
+    },
+    {
+        "id": 68,
+        "fuente": "pokeapi.co",
+        "texto": "Machamp is a Fighting-type Pokemon. Evolution: Machop evolves into Machoke at level 28. Machoke evolves into Machamp via trade. Key stats: Sp. Atk: 65, Atk: 130, Speed: 55, Def: 80. Focuses on Physical Attack. Notable moves: Karate Chop, Mega Punch, Fire Punch, Ice Punch, Thunder Punch, Mega Kick."
+    },
+    {
+        "id": 69,
+        "fuente": "pokeapi.co",
+        "texto": "Bellsprout is a Grass and Poison-type Pokemon. Evolution: Bellsprout evolves into Weepinbell at level 21. Weepinbell evolves into Victreebel using a Leaf Stone. Key stats: Sp. Atk: 70, Atk: 75, Speed: 40, Def: 35. Focuses on Physical Attack. Notable moves: Swords Dance, Cut, Bind, Slam, Vine Whip, Headbutt."
+    },
+    {
+        "id": 70,
+        "fuente": "pokeapi.co",
+        "texto": "Weepinbell is a Grass and Poison-type Pokemon. Evolution: Bellsprout evolves into Weepinbell at level 21. Weepinbell evolves into Victreebel using a Leaf Stone. Key stats: Sp. Atk: 85, Atk: 90, Speed: 55, Def: 50. Focuses on Physical Attack. Notable moves: Swords Dance, Cut, Bind, Slam, Vine Whip, Headbutt."
+    },
+    {
+        "id": 71,
+        "fuente": "pokeapi.co",
+        "texto": "Victreebel is a Grass and Poison-type Pokemon. Evolution: Bellsprout evolves into Weepinbell at level 21. Weepinbell evolves into Victreebel using a Leaf Stone. Key stats: Sp. Atk: 100, Atk: 105, Speed: 70, Def: 65. Focuses on Physical Attack. Notable moves: Swords Dance, Cut, Bind, Slam, Vine Whip, Headbutt."
+    },
+    {
+        "id": 72,
+        "fuente": "pokeapi.co",
+        "texto": "Tentacool is a Water and Poison-type Pokemon. Evolution: Tentacool evolves into Tentacruel at level 30. Key stats: Sp. Atk: 50, Atk: 40, Speed: 70, Def: 35. Focuses on Special Attack. Notable moves: Swords Dance, Cut, Bind, Headbutt, Wrap, Take Down."
+    },
+    {
+        "id": 73,
+        "fuente": "pokeapi.co",
+        "texto": "Tentacruel is a Water and Poison-type Pokemon. Evolution: Tentacool evolves into Tentacruel at level 30. Key stats: Sp. Atk: 80, Atk: 70, Speed: 100, Def: 65. Focuses on Special Attack. Notable moves: Swords Dance, Cut, Bind, Headbutt, Wrap, Take Down."
+    },
+    {
+        "id": 74,
+        "fuente": "pokeapi.co",
+        "texto": "Geodude is a Rock and Ground-type Pokemon. Evolution: Geodude evolves into Graveler at level 25. Graveler evolves into Golem via trade. Key stats: Sp. Atk: 30, Atk: 80, Speed: 20, Def: 100. Focuses on Physical Attack. Notable moves: Mega Punch, Fire Punch, Thunder Punch, Sand Attack, Headbutt, Tackle."
+    },
+    {
+        "id": 75,
+        "fuente": "pokeapi.co",
+        "texto": "Graveler is a Rock and Ground-type Pokemon. Evolution: Geodude evolves into Graveler at level 25. Graveler evolves into Golem via trade. Key stats: Sp. Atk: 45, Atk: 95, Speed: 35, Def: 115. Focuses on Physical Attack. Notable moves: Mega Punch, Fire Punch, Thunder Punch, Sand Attack, Headbutt, Tackle."
+    },
+    {
+        "id": 76,
+        "fuente": "pokeapi.co",
+        "texto": "Golem is a Rock and Ground-type Pokemon. Evolution: Geodude evolves into Graveler at level 25. Graveler evolves into Golem via trade. Key stats: Sp. Atk: 55, Atk: 120, Speed: 45, Def: 130. Focuses on Physical Attack. Notable moves: Mega Punch, Fire Punch, Thunder Punch, Mega Kick, Sand Attack, Headbutt."
+    },
+    {
+        "id": 77,
+        "fuente": "pokeapi.co",
+        "texto": "Ponyta is a Fire-type Pokemon. Evolution: Ponyta evolves into Rapidash at level 40. Key stats: Sp. Atk: 65, Atk: 85, Speed: 90, Def: 55. Focuses on Physical Attack. Notable moves: Stomp, Double Kick, Headbutt, Horn Drill, Tackle, Body Slam."
+    },
+    {
+        "id": 78,
+        "fuente": "pokeapi.co",
+        "texto": "Rapidash is a Fire-type Pokemon. Evolution: Ponyta evolves into Rapidash at level 40. Key stats: Sp. Atk: 80, Atk: 100, Speed: 105, Def: 70. Focuses on Physical Attack. Notable moves: Pay Day, Swords Dance, Stomp, Double Kick, Headbutt, Fury Attack."
+    },
+    {
+        "id": 79,
+        "fuente": "pokeapi.co",
+        "texto": "Slowpoke is a Water and Psychic-type Pokemon. Evolution: Slowpoke evolves into Slowbro at level 37. Slowpoke evolves into Slowking via trade. Key stats: Sp. Atk: 40, Atk: 65, Speed: 15, Def: 65. Focuses on Physical Attack. Notable moves: Pay Day, Stomp, Headbutt, Tackle, Body Slam, Take Down."
+    },
+    {
+        "id": 80,
+        "fuente": "pokeapi.co",
+        "texto": "Slowbro is a Water and Psychic-type Pokemon. Evolution: Slowpoke evolves into Slowbro at level 37. Slowpoke evolves into Slowking via trade. Key stats: Sp. Atk: 100, Atk: 75, Speed: 30, Def: 110. Focuses on Special Attack. Notable moves: Mega Punch, Pay Day, Ice Punch, Stomp, Mega Kick, Headbutt."
+    },
+    {
+        "id": 81,
+        "fuente": "pokeapi.co",
+        "texto": "Magnemite is a Electric and Steel-type Pokemon. Evolution: Magnemite evolves into Magneton at level 30. Magneton evolves into Magnezone via level-up. Key stats: Sp. Atk: 95, Atk: 35, Speed: 45, Def: 70. Focuses on Special Attack. Notable moves: Headbutt, Tackle, Take Down, Double Edge, Supersonic, Sonic Boom."
+    },
+    {
+        "id": 82,
+        "fuente": "pokeapi.co",
+        "texto": "Magneton is a Electric and Steel-type Pokemon. Evolution: Magnemite evolves into Magneton at level 30. Magneton evolves into Magnezone via level-up. Key stats: Sp. Atk: 120, Atk: 60, Speed: 70, Def: 95. Focuses on Special Attack. Notable moves: Headbutt, Tackle, Take Down, Double Edge, Supersonic, Sonic Boom."
+    },
+    {
+        "id": 83,
+        "fuente": "pokeapi.co",
+        "texto": "Farfetchd is a Normal and Flying-type Pokemon. Evolution: Farfetchd evolves into Sirfetchd via three-critical-hits. Key stats: Sp. Atk: 58, Atk: 90, Speed: 60, Def: 55. Focuses on Physical Attack. Notable moves: Razor Wind, Swords Dance, Cut, Gust, Whirlwind, Fly."
+    },
+    {
+        "id": 84,
+        "fuente": "pokeapi.co",
+        "texto": "Doduo is a Normal and Flying-type Pokemon. Evolution: Doduo evolves into Dodrio at level 31. Key stats: Sp. Atk: 35, Atk: 85, Speed: 75, Def: 45. Focuses on Physical Attack. Notable moves: Swords Dance, Wing Attack, Whirlwind, Fly, Jump Kick, Headbutt."
+    },
+    {
+        "id": 85,
+        "fuente": "pokeapi.co",
+        "texto": "Dodrio is a Normal and Flying-type Pokemon. Evolution: Doduo evolves into Dodrio at level 31. Key stats: Sp. Atk: 60, Atk: 110, Speed: 110, Def: 70. Focuses on Physical Attack. Notable moves: Swords Dance, Wing Attack, Whirlwind, Fly, Jump Kick, Headbutt."
+    },
+    {
+        "id": 86,
+        "fuente": "pokeapi.co",
+        "texto": "Seel is a Water-type Pokemon. Evolution: Seel evolves into Dewgong at level 34. Key stats: Sp. Atk: 45, Atk: 45, Speed: 45, Def: 55. Focuses on Special Attack. Notable moves: Pay Day, Slam, Headbutt, Horn Drill, Body Slam, Take Down."
+    },
+    {
+        "id": 87,
+        "fuente": "pokeapi.co",
+        "texto": "Dewgong is a Water and Ice-type Pokemon. Evolution: Seel evolves into Dewgong at level 34. Key stats: Sp. Atk: 70, Atk: 70, Speed: 70, Def: 80. Focuses on Special Attack. Notable moves: Pay Day, Headbutt, Horn Drill, Body Slam, Take Down, Double Edge."
+    },
+    {
+        "id": 88,
+        "fuente": "pokeapi.co",
+        "texto": "Grimer is a Poison-type Pokemon. Evolution: Grimer evolves into Muk at level 38. Key stats: Sp. Atk: 40, Atk: 80, Speed: 25, Def: 50. Focuses on Physical Attack. Notable moves: Pound, Fire Punch, Ice Punch, Thunder Punch, Headbutt, Body Slam."
+    },
+    {
+        "id": 89,
+        "fuente": "pokeapi.co",
+        "texto": "Muk is a Poison-type Pokemon. Evolution: Grimer evolves into Muk at level 38. Key stats: Sp. Atk: 65, Atk: 105, Speed: 50, Def: 75. Focuses on Physical Attack. Notable moves: Pound, Fire Punch, Ice Punch, Thunder Punch, Headbutt, Body Slam."
+    },
+    {
+        "id": 90,
+        "fuente": "pokeapi.co",
+        "texto": "Shellder is a Water-type Pokemon. Evolution: Shellder evolves into Cloyster using a Water Stone. Key stats: Sp. Atk: 45, Atk: 65, Speed: 40, Def: 100. Focuses on Physical Attack. Notable moves: Headbutt, Tackle, Take Down, Double Edge, Twineedle, Leer."
+    },
+    {
+        "id": 91,
+        "fuente": "pokeapi.co",
+        "texto": "Cloyster is a Water and Ice-type Pokemon. Evolution: Shellder evolves into Cloyster using a Water Stone. Key stats: Sp. Atk: 85, Atk: 95, Speed: 70, Def: 180. Focuses on Physical Attack. Notable moves: Headbutt, Tackle, Body Slam, Take Down, Double Edge, Twineedle."
+    },
+    {
+        "id": 92,
+        "fuente": "pokeapi.co",
+        "texto": "Gastly is a Ghost and Poison-type Pokemon. Evolution: Gastly evolves into Haunter at level 25. Haunter evolves into Gengar via trade. Key stats: Sp. Atk: 100, Atk: 35, Speed: 80, Def: 30. Focuses on Special Attack. Notable moves: Fire Punch, Ice Punch, Thunder Punch, Headbutt, Disable, Mega Drain."
+    },
+    {
+        "id": 93,
+        "fuente": "pokeapi.co",
+        "texto": "Haunter is a Ghost and Poison-type Pokemon. Evolution: Gastly evolves into Haunter at level 25. Haunter evolves into Gengar via trade. Key stats: Sp. Atk: 115, Atk: 50, Speed: 95, Def: 45. Focuses on Special Attack. Notable moves: Fire Punch, Ice Punch, Thunder Punch, Headbutt, Mega Drain, Thunderbolt."
+    },
+    {
+        "id": 94,
+        "fuente": "pokeapi.co",
+        "texto": "Gengar is a Ghost and Poison-type Pokemon. Evolution: Gastly evolves into Haunter at level 25. Haunter evolves into Gengar via trade. Key stats: Sp. Atk: 130, Atk: 65, Speed: 110, Def: 60. Focuses on Special Attack. Notable moves: Mega Punch, Fire Punch, Ice Punch, Thunder Punch, Mega Kick, Headbutt."
+    },
+    {
+        "id": 95,
+        "fuente": "pokeapi.co",
+        "texto": "Onix is a Rock and Ground-type Pokemon. Evolution: Onix evolves into Steelix via trade. Key stats: Sp. Atk: 30, Atk: 45, Speed: 70, Def: 160. Focuses on Physical Attack. Notable moves: Bind, Slam, Headbutt, Tackle, Body Slam, Take Down."
+    },
+    {
+        "id": 96,
+        "fuente": "pokeapi.co",
+        "texto": "Drowzee is a Psychic-type Pokemon. Evolution: Drowzee evolves into Hypno at level 26. Key stats: Sp. Atk: 43, Atk: 48, Speed: 42, Def: 45. Focuses on Physical Attack. Notable moves: Pound, Mega Punch, Fire Punch, Ice Punch, Thunder Punch, Mega Kick."
+    },
+    {
+        "id": 97,
+        "fuente": "pokeapi.co",
+        "texto": "Hypno is a Psychic-type Pokemon. Evolution: Drowzee evolves into Hypno at level 26. Key stats: Sp. Atk: 73, Atk: 73, Speed: 67, Def: 70. Focuses on Special Attack. Notable moves: Pound, Mega Punch, Fire Punch, Ice Punch, Thunder Punch, Mega Kick."
+    },
+    {
+        "id": 98,
+        "fuente": "pokeapi.co",
+        "texto": "Krabby is a Water-type Pokemon. Evolution: Krabby evolves into Kingler at level 28. Key stats: Sp. Atk: 25, Atk: 105, Speed: 50, Def: 90. Focuses on Physical Attack. Notable moves: Vice Grip, Guillotine, Swords Dance, Cut, Slam, Stomp."
+    },
+    {
+        "id": 99,
+        "fuente": "pokeapi.co",
+        "texto": "Kingler is a Water-type Pokemon. Evolution: Krabby evolves into Kingler at level 28. Key stats: Sp. Atk: 50, Atk: 130, Speed: 75, Def: 115. Focuses on Physical Attack. Notable moves: Vice Grip, Guillotine, Swords Dance, Cut, Slam, Stomp."
+    },
+    {
+        "id": 100,
+        "fuente": "pokeapi.co",
+        "texto": "Voltorb is a Electric-type Pokemon. Evolution: Voltorb evolves into Electrode at level 30. Key stats: Sp. Atk: 55, Atk: 30, Speed: 100, Def: 50. Focuses on Special Attack. Notable moves: Headbutt, Tackle, Take Down, Double Edge, Sonic Boom, Thunder Shock."
+    },
+    {
+        "id": 101,
+        "fuente": "pokeapi.co",
+        "texto": "Electrode is a Electric-type Pokemon. Evolution: Voltorb evolves into Electrode at level 30. Key stats: Sp. Atk: 80, Atk: 50, Speed: 150, Def: 70. Focuses on Special Attack. Notable moves: Headbutt, Tackle, Take Down, Double Edge, Sonic Boom, Hyper Beam."
+    },
+    {
+        "id": 102,
+        "fuente": "pokeapi.co",
+        "texto": "Exeggcute is a Grass and Psychic-type Pokemon. Evolution: Exeggcute evolves into Exeggutor using a Leaf Stone. Key stats: Sp. Atk: 60, Atk: 40, Speed: 40, Def: 80. Focuses on Special Attack. Notable moves: Swords Dance, Headbutt, Take Down, Double Edge, Psybeam, Strength."
+    },
+    {
+        "id": 103,
+        "fuente": "pokeapi.co",
+        "texto": "Exeggutor is a Grass and Psychic-type Pokemon. Evolution: Exeggcute evolves into Exeggutor using a Leaf Stone. Key stats: Sp. Atk: 125, Atk: 95, Speed: 55, Def: 85. Focuses on Special Attack. Notable moves: Swords Dance, Stomp, Headbutt, Body Slam, Take Down, Double Edge."
+    },
+    {
+        "id": 104,
+        "fuente": "pokeapi.co",
+        "texto": "Cubone is a Ground-type Pokemon. Evolution: Cubone evolves into Marowak at level 28. Key stats: Sp. Atk: 40, Atk: 50, Speed: 35, Def: 95. Focuses on Physical Attack. Notable moves: Mega Punch, Fire Punch, Thunder Punch, Swords Dance, Double Kick, Mega Kick."
+    },
+    {
+        "id": 105,
+        "fuente": "pokeapi.co",
+        "texto": "Marowak is a Ground-type Pokemon. Evolution: Cubone evolves into Marowak at level 28. Key stats: Sp. Atk: 50, Atk: 80, Speed: 45, Def: 110. Focuses on Physical Attack. Notable moves: Mega Punch, Fire Punch, Thunder Punch, Swords Dance, Mega Kick, Headbutt."
+    },
+    {
+        "id": 106,
+        "fuente": "pokeapi.co",
+        "texto": "Hitmonlee is a Fighting-type Pokemon. Evolution: Tyrogue evolves into Hitmonlee at level 20. Tyrogue evolves into Hitmonchan at level 20. Tyrogue evolves into Hitmontop at level 20. Key stats: Sp. Atk: 35, Atk: 120, Speed: 87, Def: 53. Focuses on Physical Attack. Notable moves: Mega Punch, Swords Dance, Double Kick, Mega Kick, Jump Kick, Rolling Kick."
+    },
+    {
+        "id": 107,
+        "fuente": "pokeapi.co",
+        "texto": "Hitmonchan is a Fighting-type Pokemon. Evolution: Tyrogue evolves into Hitmonlee at level 20. Tyrogue evolves into Hitmonchan at level 20. Tyrogue evolves into Hitmontop at level 20. Key stats: Sp. Atk: 35, Atk: 105, Speed: 76, Def: 79. Focuses on Physical Attack. Notable moves: Comet Punch, Mega Punch, Fire Punch, Ice Punch, Thunder Punch, Swords Dance."
+    },
+    {
+        "id": 108,
+        "fuente": "pokeapi.co",
+        "texto": "Lickitung is a Normal-type Pokemon. Evolution: Lickitung evolves into Lickilicky via level-up. Key stats: Sp. Atk: 60, Atk: 55, Speed: 30, Def: 75. Focuses on Special Attack. Notable moves: Mega Punch, Fire Punch, Ice Punch, Thunder Punch, Swords Dance, Cut."
+    },
+    {
+        "id": 109,
+        "fuente": "pokeapi.co",
+        "texto": "Koffing is a Poison-type Pokemon. Evolution: Koffing evolves into Weezing at level 35. Key stats: Sp. Atk: 60, Atk: 65, Speed: 35, Def: 95. Focuses on Physical Attack. Notable moves: Headbutt, Tackle, Body Slam, Take Down, Flamethrower, Psybeam."
+    },
+    {
+        "id": 110,
+        "fuente": "pokeapi.co",
+        "texto": "Weezing is a Poison-type Pokemon. Evolution: Koffing evolves into Weezing at level 35. Key stats: Sp. Atk: 85, Atk: 90, Speed: 60, Def: 120. Focuses on Physical Attack. Notable moves: Headbutt, Tackle, Body Slam, Take Down, Flamethrower, Psybeam."
+    },
+    {
+        "id": 111,
+        "fuente": "pokeapi.co",
+        "texto": "Rhyhorn is a Ground and Rock-type Pokemon. Evolution: Rhyhorn evolves into Rhydon at level 42. Rhydon evolves into Rhyperior via trade. Key stats: Sp. Atk: 30, Atk: 85, Speed: 25, Def: 95. Focuses on Physical Attack. Notable moves: Swords Dance, Stomp, Sand Attack, Headbutt, Horn Attack, Fury Attack."
+    },
+    {
+        "id": 112,
+        "fuente": "pokeapi.co",
+        "texto": "Rhydon is a Ground and Rock-type Pokemon. Evolution: Rhyhorn evolves into Rhydon at level 42. Rhydon evolves into Rhyperior via trade. Key stats: Sp. Atk: 45, Atk: 130, Speed: 40, Def: 120. Focuses on Physical Attack. Notable moves: Mega Punch, Pay Day, Fire Punch, Ice Punch, Thunder Punch, Swords Dance."
+    },
+    {
+        "id": 113,
+        "fuente": "pokeapi.co",
+        "texto": "Chansey is a Normal-type Pokemon. Evolution: Happiny evolves into Chansey via level-up. Chansey evolves into Blissey via level-up. Key stats: Sp. Atk: 35, Atk: 5, Speed: 50, Def: 5. Focuses on Special Attack. Notable moves: Pound, Double Slap, Mega Punch, Fire Punch, Ice Punch, Thunder Punch."
+    },
+    {
+        "id": 114,
+        "fuente": "pokeapi.co",
+        "texto": "Tangela is a Grass-type Pokemon. Evolution: Tangela evolves into Tangrowth via level-up. Key stats: Sp. Atk: 100, Atk: 55, Speed: 60, Def: 115. Focuses on Special Attack. Notable moves: Swords Dance, Cut, Bind, Slam, Vine Whip, Headbutt."
+    },
+    {
+        "id": 115,
+        "fuente": "pokeapi.co",
+        "texto": "Kangaskhan is a Normal-type Pokemon. Evolution: This Pokemon does not evolve. Key stats: Sp. Atk: 40, Atk: 95, Speed: 90, Def: 80. Focuses on Physical Attack. Notable moves: Pound, Comet Punch, Mega Punch, Fire Punch, Ice Punch, Thunder Punch."
+    },
+    {
+        "id": 116,
+        "fuente": "pokeapi.co",
+        "texto": "Horsea is a Water-type Pokemon. Evolution: Horsea evolves into Seadra at level 32. Seadra evolves into Kingdra via trade. Key stats: Sp. Atk: 70, Atk: 40, Speed: 60, Def: 70. Focuses on Special Attack. Notable moves: Razor Wind, Headbutt, Take Down, Double Edge, Leer, Disable."
+    },
+    {
+        "id": 117,
+        "fuente": "pokeapi.co",
+        "texto": "Seadra is a Water-type Pokemon. Evolution: Horsea evolves into Seadra at level 32. Seadra evolves into Kingdra via trade. Key stats: Sp. Atk: 95, Atk: 65, Speed: 85, Def: 95. Focuses on Special Attack. Notable moves: Headbutt, Take Down, Double Edge, Leer, Disable, Water Gun."
+    },
+    {
+        "id": 118,
+        "fuente": "pokeapi.co",
+        "texto": "Goldeen is a Water-type Pokemon. Evolution: Goldeen evolves into Seaking at level 33. Key stats: Sp. Atk: 35, Atk: 67, Speed: 63, Def: 60. Focuses on Physical Attack. Notable moves: Swords Dance, Headbutt, Horn Attack, Fury Attack, Horn Drill, Body Slam."
+    },
+    {
+        "id": 119,
+        "fuente": "pokeapi.co",
+        "texto": "Seaking is a Water-type Pokemon. Evolution: Goldeen evolves into Seaking at level 33. Key stats: Sp. Atk: 65, Atk: 92, Speed: 68, Def: 65. Focuses on Physical Attack. Notable moves: Swords Dance, Headbutt, Horn Attack, Fury Attack, Horn Drill, Body Slam."
+    },
+    {
+        "id": 120,
+        "fuente": "pokeapi.co",
+        "texto": "Staryu is a Water-type Pokemon. Evolution: Staryu evolves into Starmie using a Water Stone. Key stats: Sp. Atk: 70, Atk: 45, Speed: 85, Def: 55. Focuses on Special Attack. Notable moves: Headbutt, Tackle, Take Down, Double Edge, Supersonic, Water Gun."
+    },
+    {
+        "id": 121,
+        "fuente": "pokeapi.co",
+        "texto": "Starmie is a Water and Psychic-type Pokemon. Evolution: Staryu evolves into Starmie using a Water Stone. Key stats: Sp. Atk: 100, Atk: 75, Speed: 115, Def: 85. Focuses on Special Attack. Notable moves: Headbutt, Tackle, Take Down, Double Edge, Water Gun, Hydro Pump."
+    },
+    {
+        "id": 122,
+        "fuente": "pokeapi.co",
+        "texto": "Mr-mime is a Psychic and Fairy-type Pokemon. Evolution: Mime-jr evolves into Mr-mime via level-up. Mr-mime evolves into Mr-rime at level 42. Key stats: Sp. Atk: 100, Atk: 45, Speed: 90, Def: 65. Focuses on Special Attack. Notable moves: Pound, Double Slap, Mega Punch, Fire Punch, Ice Punch, Thunder Punch."
+    },
+    {
+        "id": 123,
+        "fuente": "pokeapi.co",
+        "texto": "Scyther is a Bug and Flying-type Pokemon. Evolution: Scyther evolves into Scizor via trade. Scyther evolves into Kleavor using a Black Augurite. Key stats: Sp. Atk: 55, Atk: 110, Speed: 105, Def: 80. Focuses on Physical Attack. Notable moves: Razor Wind, Swords Dance, Cut, Wing Attack, Headbutt, Take Down."
+    },
+    {
+        "id": 124,
+        "fuente": "pokeapi.co",
+        "texto": "Jynx is a Ice and Psychic-type Pokemon. Evolution: Smoochum evolves into Jynx at level 30. Key stats: Sp. Atk: 115, Atk: 50, Speed: 95, Def: 35. Focuses on Special Attack. Notable moves: Pound, Double Slap, Mega Punch, Ice Punch, Mega Kick, Headbutt."
+    },
+    {
+        "id": 125,
+        "fuente": "pokeapi.co",
+        "texto": "Electabuzz is a Electric-type Pokemon. Evolution: Elekid evolves into Electabuzz at level 30. Electabuzz evolves into Electivire via trade. Key stats: Sp. Atk: 95, Atk: 83, Speed: 105, Def: 57. Focuses on Special Attack. Notable moves: Mega Punch, Fire Punch, Ice Punch, Thunder Punch, Mega Kick, Headbutt."
+    },
+    {
+        "id": 126,
+        "fuente": "pokeapi.co",
+        "texto": "Magmar is a Fire-type Pokemon. Evolution: Magby evolves into Magmar at level 30. Magmar evolves into Magmortar via trade. Key stats: Sp. Atk: 100, Atk: 95, Speed: 93, Def: 57. Focuses on Special Attack. Notable moves: Mega Punch, Fire Punch, Thunder Punch, Mega Kick, Headbutt, Tackle."
+    },
+    {
+        "id": 127,
+        "fuente": "pokeapi.co",
+        "texto": "Pinsir is a Bug-type Pokemon. Evolution: This Pokemon does not evolve. Key stats: Sp. Atk: 55, Atk: 125, Speed: 85, Def: 100. Focuses on Physical Attack. Notable moves: Vice Grip, Guillotine, Swords Dance, Cut, Bind, Headbutt."
+    },
+    {
+        "id": 128,
+        "fuente": "pokeapi.co",
+        "texto": "Tauros is a Normal-type Pokemon. Evolution: This Pokemon does not evolve. Key stats: Sp. Atk: 40, Atk: 100, Speed: 110, Def: 95. Focuses on Physical Attack. Notable moves: Stomp, Headbutt, Horn Attack, Horn Drill, Tackle, Body Slam."
+    },
+    {
+        "id": 129,
+        "fuente": "pokeapi.co",
+        "texto": "Magikarp is a Water-type Pokemon. Evolution: Magikarp evolves into Gyarados at level 20. Key stats: Sp. Atk: 15, Atk: 10, Speed: 80, Def: 55. Focuses on Special Attack. Notable moves: Tackle, Hydro Pump, Splash, Flail, Bounce."
+    },
+    {
+        "id": 130,
+        "fuente": "pokeapi.co",
+        "texto": "Gyarados is a Water and Flying-type Pokemon. Evolution: Magikarp evolves into Gyarados at level 20. Key stats: Sp. Atk: 60, Atk: 125, Speed: 81, Def: 79. Focuses on Physical Attack. Notable moves: Bind, Headbutt, Tackle, Body Slam, Take Down, Thrash."
+    },
+    {
+        "id": 131,
+        "fuente": "pokeapi.co",
+        "texto": "Lapras is a Water and Ice-type Pokemon. Evolution: This Pokemon does not evolve. Key stats: Sp. Atk: 85, Atk: 85, Speed: 60, Def: 80. Focuses on Special Attack. Notable moves: Headbutt, Horn Drill, Body Slam, Take Down, Double Edge, Growl."
+    },
+    {
+        "id": 132,
+        "fuente": "pokeapi.co",
+        "texto": "Ditto is a Normal-type Pokemon. Evolution: This Pokemon does not evolve. Key stats: Sp. Atk: 48, Atk: 48, Speed: 48, Def: 48. Focuses on Special Attack. Notable moves: Transform."
     },
     {
         "id": 133,
         "fuente": "pokeapi.co",
-        "texto": "Eevee es un Pokémon de tipo Normal. Evolución: Eevee evoluciona a Vaporeon usando water-stone. Eevee evoluciona a Jolteon usando thunder-stone. Eevee evoluciona a Flareon usando fire-stone. Eevee evoluciona a Espeon vía level-up. Eevee evoluciona a Umbreon vía level-up. Eevee evoluciona a Leafeon vía level-up. Eevee evoluciona a Glaceon vía level-up. Eevee evoluciona a Sylveon vía level-up. Stats clave: Atq. Esp: 45, Atq: 55, Vel: 55, Def: 50. Destaca en Ataque Físico. Movimientos destacados: Pay day, Double kick, Sand attack, Headbutt, Tackle, Body slam, Take down, Double edge."
+        "texto": "Eevee is a Normal-type Pokemon. Evolution: Eevee evolves into Vaporeon using a Water Stone. Eevee evolves into Jolteon using a Thunder Stone. Eevee evolves into Flareon using a Fire Stone. Eevee evolves into Espeon via level-up. Eevee evolves into Umbreon via level-up. Eevee evolves into Leafeon via level-up. Eevee evolves into Glaceon via level-up. Eevee evolves into Sylveon via level-up. Key stats: Sp. Atk: 45, Atk: 55, Speed: 55, Def: 50. Focuses on Physical Attack. Notable moves: Pay Day, Double Kick, Sand Attack, Headbutt, Tackle, Body Slam."
+    },
+    {
+        "id": 134,
+        "fuente": "pokeapi.co",
+        "texto": "Vaporeon is a Water-type Pokemon. Evolution: Eevee evolves into Vaporeon using a Water Stone. Eevee evolves into Jolteon using a Thunder Stone. Eevee evolves into Flareon using a Fire Stone. Eevee evolves into Espeon via level-up. Eevee evolves into Umbreon via level-up. Eevee evolves into Leafeon via level-up. Eevee evolves into Glaceon via level-up. Eevee evolves into Sylveon via level-up. Key stats: Sp. Atk: 110, Atk: 65, Speed: 65, Def: 60. Focuses on Special Attack. Notable moves: Pay Day, Double Kick, Sand Attack, Headbutt, Tackle, Body Slam."
+    },
+    {
+        "id": 135,
+        "fuente": "pokeapi.co",
+        "texto": "Jolteon is a Electric-type Pokemon. Evolution: Eevee evolves into Vaporeon using a Water Stone. Eevee evolves into Jolteon using a Thunder Stone. Eevee evolves into Flareon using a Fire Stone. Eevee evolves into Espeon via level-up. Eevee evolves into Umbreon via level-up. Eevee evolves into Leafeon via level-up. Eevee evolves into Glaceon via level-up. Eevee evolves into Sylveon via level-up. Key stats: Sp. Atk: 110, Atk: 65, Speed: 130, Def: 60. Focuses on Special Attack. Notable moves: Pay Day, Double Kick, Sand Attack, Headbutt, Tackle, Body Slam."
+    },
+    {
+        "id": 136,
+        "fuente": "pokeapi.co",
+        "texto": "Flareon is a Fire-type Pokemon. Evolution: Eevee evolves into Vaporeon using a Water Stone. Eevee evolves into Jolteon using a Thunder Stone. Eevee evolves into Flareon using a Fire Stone. Eevee evolves into Espeon via level-up. Eevee evolves into Umbreon via level-up. Eevee evolves into Leafeon via level-up. Eevee evolves into Glaceon via level-up. Eevee evolves into Sylveon via level-up. Key stats: Sp. Atk: 95, Atk: 130, Speed: 65, Def: 60. Focuses on Physical Attack. Notable moves: Pay Day, Double Kick, Sand Attack, Headbutt, Tackle, Body Slam."
+    },
+    {
+        "id": 137,
+        "fuente": "pokeapi.co",
+        "texto": "Porygon is a Normal-type Pokemon. Evolution: Porygon evolves into Porygon2 via trade. Porygon2 evolves into Porygon-z via trade. Key stats: Sp. Atk: 85, Atk: 60, Speed: 40, Def: 70. Focuses on Special Attack. Notable moves: Headbutt, Tackle, Take Down, Double Edge, Ice Beam, Blizzard."
+    },
+    {
+        "id": 138,
+        "fuente": "pokeapi.co",
+        "texto": "Omanyte is a Rock and Water-type Pokemon. Evolution: Omanyte evolves into Omastar at level 40. Key stats: Sp. Atk: 90, Atk: 40, Speed: 35, Def: 100. Focuses on Special Attack. Notable moves: Bind, Slam, Sand Attack, Headbutt, Horn Attack, Body Slam."
+    },
+    {
+        "id": 139,
+        "fuente": "pokeapi.co",
+        "texto": "Omastar is a Rock and Water-type Pokemon. Evolution: Omanyte evolves into Omastar at level 40. Key stats: Sp. Atk: 115, Atk: 60, Speed: 55, Def: 125. Focuses on Special Attack. Notable moves: Bind, Sand Attack, Headbutt, Horn Attack, Horn Drill, Body Slam."
+    },
+    {
+        "id": 140,
+        "fuente": "pokeapi.co",
+        "texto": "Kabuto is a Rock and Water-type Pokemon. Evolution: Kabuto evolves into Kabutops at level 40. Key stats: Sp. Atk: 55, Atk: 80, Speed: 55, Def: 90. Focuses on Physical Attack. Notable moves: Scratch, Sand Attack, Headbutt, Body Slam, Take Down, Double Edge."
+    },
+    {
+        "id": 141,
+        "fuente": "pokeapi.co",
+        "texto": "Kabutops is a Rock and Water-type Pokemon. Evolution: Kabuto evolves into Kabutops at level 40. Key stats: Sp. Atk: 65, Atk: 115, Speed: 80, Def: 105. Focuses on Physical Attack. Notable moves: Scratch, Razor Wind, Swords Dance, Cut, Mega Kick, Sand Attack."
+    },
+    {
+        "id": 142,
+        "fuente": "pokeapi.co",
+        "texto": "Aerodactyl is a Rock and Flying-type Pokemon. Evolution: This Pokemon does not evolve. Key stats: Sp. Atk: 60, Atk: 105, Speed: 130, Def: 65. Focuses on Physical Attack. Notable moves: Razor Wind, Wing Attack, Whirlwind, Fly, Headbutt, Take Down."
+    },
+    {
+        "id": 143,
+        "fuente": "pokeapi.co",
+        "texto": "Snorlax is a Normal-type Pokemon. Evolution: Munchlax evolves into Snorlax via level-up. Key stats: Sp. Atk: 65, Atk: 110, Speed: 30, Def: 65. Focuses on Physical Attack. Notable moves: Mega Punch, Pay Day, Fire Punch, Ice Punch, Thunder Punch, Whirlwind."
+    },
+    {
+        "id": 144,
+        "fuente": "pokeapi.co",
+        "texto": "Articuno is a Ice and Flying-type Pokemon. Evolution: This Pokemon does not evolve. Key stats: Sp. Atk: 95, Atk: 85, Speed: 85, Def: 100. Focuses on Special Attack. Notable moves: Razor Wind, Gust, Whirlwind, Fly, Headbutt, Take Down."
+    },
+    {
+        "id": 145,
+        "fuente": "pokeapi.co",
+        "texto": "Zapdos is a Electric and Flying-type Pokemon. Evolution: This Pokemon does not evolve. Key stats: Sp. Atk: 125, Atk: 90, Speed: 100, Def: 85. Focuses on Special Attack. Notable moves: Razor Wind, Whirlwind, Fly, Headbutt, Take Down, Double Edge."
+    },
+    {
+        "id": 146,
+        "fuente": "pokeapi.co",
+        "texto": "Moltres is a Fire and Flying-type Pokemon. Evolution: This Pokemon does not evolve. Key stats: Sp. Atk: 125, Atk: 100, Speed: 90, Def: 90. Focuses on Special Attack. Notable moves: Razor Wind, Gust, Wing Attack, Whirlwind, Fly, Headbutt."
+    },
+    {
+        "id": 147,
+        "fuente": "pokeapi.co",
+        "texto": "Dratini is a Dragon-type Pokemon. Evolution: Dratini evolves into Dragonair at level 30. Dragonair evolves into Dragonite at level 55. Key stats: Sp. Atk: 50, Atk: 64, Speed: 50, Def: 45. Focuses on Physical Attack. Notable moves: Bind, Slam, Headbutt, Body Slam, Wrap, Take Down."
+    },
+    {
+        "id": 148,
+        "fuente": "pokeapi.co",
+        "texto": "Dragonair is a Dragon-type Pokemon. Evolution: Dratini evolves into Dragonair at level 30. Dragonair evolves into Dragonite at level 55. Key stats: Sp. Atk: 70, Atk: 84, Speed: 70, Def: 65. Focuses on Physical Attack. Notable moves: Bind, Slam, Headbutt, Horn Drill, Body Slam, Wrap."
+    },
+    {
+        "id": 149,
+        "fuente": "pokeapi.co",
+        "texto": "Dragonite is a Dragon and Flying-type Pokemon. Evolution: Dratini evolves into Dragonair at level 30. Dragonair evolves into Dragonite at level 55. Key stats: Sp. Atk: 100, Atk: 134, Speed: 80, Def: 95. Focuses on Physical Attack. Notable moves: Mega Punch, Fire Punch, Ice Punch, Thunder Punch, Razor Wind, Cut."
+    },
+    {
+        "id": 150,
+        "fuente": "pokeapi.co",
+        "texto": "Mewtwo is a Psychic-type Pokemon. Evolution: This Pokemon does not evolve. Key stats: Sp. Atk: 154, Atk: 110, Speed: 130, Def: 90. Focuses on Special Attack. Notable moves: Mega Punch, Pay Day, Fire Punch, Ice Punch, Thunder Punch, Mega Kick."
+    },
+    {
+        "id": 151,
+        "fuente": "pokeapi.co",
+        "texto": "Mew is a Psychic-type Pokemon. Evolution: This Pokemon does not evolve. Key stats: Sp. Atk: 100, Atk: 100, Speed: 100, Def: 100. Focuses on Special Attack. Notable moves: Pound, Mega Punch, Pay Day, Fire Punch, Ice Punch, Thunder Punch."
     }
 ]
